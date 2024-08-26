@@ -1,0 +1,9 @@
+{
+    "banco": "Banco de Santa Isabel",
+    "sucursal": "Santa isabel - Pereira",    
+    "titular": "SAMIZEINS",
+    "nro_cuenta": "Nro cuenta: 1752461/08",    
+    "saldo": [ { "moneda": "USD", "monto": 725.09 }, { "moneda": "EUR", "monto": 195.67} ],
+    "nro_banco": "Nro banco: 1562244781396451",
+    "abierto": "Abierta: 01/05/2021"
+}
